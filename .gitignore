@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+
+# Experiment outputs (regenerate them instead of committing)
+results/
+
+# Secrets such as API keys
+.env
+
+# Raw OSM downloads are large; commit only the frozen, filtered extract
+data/raw/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
