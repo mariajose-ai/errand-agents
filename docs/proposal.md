@@ -1,6 +1,6 @@
 > **Note:** This idea was first drafted as a CS221 project proposal. It is now an
 > independent project; the plan below is the original reference. Changes to the plan
-> are recorded in [LOG.md](LOG.md) and decisions.md.
+> are recorded in [LOG.md](LOG.md) and [decisions.md](decisions.md).
 
 # Search-Guided Agents for Multi-Errand Planning Under Tool Failures
 
